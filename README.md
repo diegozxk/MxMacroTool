@@ -1,128 +1,55 @@
-# Mxcro - Macro Tool
+# 🚀 Mxcro - The Ultimate Macro Tool
 
-## 📜 Description
+Mxcro is a powerful and easy-to-use macro automation tool for Windows. With a sleek modern UI and ultra-fast text input, you can automate your workflow like never before! 💻✨
 
-Mxcro is a simple and powerful macro tool that allows you to assign text to function keys (F1-F12) for quick automatic typing. It works instantly and supports the `{enter}` variable to simulate pressing the Enter key.
+## 🔥 Features
+- 🎛️ Customizable macros with hotkeys
+- ⚡ Ultra-fast text input
+- 🎨 Dark mode UI
+- 🛡️ Secure key blocking
+- 💾 Profile management
 
----
+## 📥 Download
+Simply download **mxcro.exe** and start using it right away—no additional setup required!
 
-## 📥 Installation
-
-1. **Download** the latest version of `macro.exe` from [Releases](https://github.com/your-repo/releases).
-2. **Extract** the `.zip` file anywhere on your computer.
-3. **Run** `macro.exe` (No installation required).
-
----
-
-## 🖱️ How to Use
-
-1. **Open `macro.exe`**  
-2. **Select a profile** from the dropdown menu.  
-3. **Enter text** in the fields corresponding to `F1-F12`.  
-4. **Use `{enter}`** in the text field to simulate the Enter key.  
-   - Example: `"Hello{enter}How are you?"`  
-   - This will send `"Hello"`, press Enter, then send `"How are you?"`.  
-5. **Click "Save Profile"** to store your macros.  
-6. **Press F1-F12** to send the assigned text instantly.  
+## 🛡️ Virus-Free Guarantee
+Mxcro is completely free of viruses. You can verify its safety by scanning it on [VirusTotal](https://www.virustotal.com/) before running it! ✅
 
 ---
 
-## 🛑 Exit the Program
+# 🚀 Mxcro - La Herramienta de Macros Definitiva
 
-To close the tool, simply click the "Exit" button.
+Mxcro es una poderosa y fácil herramienta de automatización de macros para Windows. Con una interfaz moderna y entrada de texto ultra rápida, ¡puedes automatizar tu flujo de trabajo como nunca antes! 💻✨
 
----
+## 🔥 Características
+- 🎛️ Macros personalizables con teclas rápidas
+- ⚡ Entrada de texto ultra rápida
+- 🎨 Interfaz en modo oscuro
+- 🛡️ Bloqueo seguro de teclas
+- 💾 Gestión de perfiles
 
-## 📝 Notes
+## 📥 Descarga
+Solo descarga **mxcro.exe** y comienza a usarlo de inmediato—¡sin necesidad de configuración adicional!
 
-- You can rename profiles for better organization.
-- The tool runs in the background and can be used in any application.
-- No installation or additional software is required.
-
----
-
-## 🌍 Traducciones
-
-### 🇪🇸 Español
-
-## 📜 Descripción
-
-Mxcro es una herramienta de macros simple y potente que permite asignar textos a las teclas de función (F1-F12) para escribir automáticamente. Funciona al instante y admite la variable `{enter}` para simular la tecla Enter.
+## 🛡️ Garantía Libre de Virus
+Mxcro está completamente libre de virus. Puedes verificar su seguridad escaneándolo en [VirusTotal](https://www.virustotal.com/) antes de ejecutarlo. ✅
 
 ---
 
-## 📥 Instalación
+# 🚀 Mxcro - A Ferramenta Definitiva de Macro
 
-1. **Descarga** la última versión de `macro.exe` desde [Releases](https://github.com/your-repo/releases).
-2. **Extrae** el archivo `.zip` en cualquier lugar de tu computadora.
-3. **Ejecuta** `macro.exe` (No necesita instalación).
+Mxcro é uma ferramenta poderosa e fácil de usar para automação de macros no Windows. Com uma interface moderna e entrada de texto ultra rápida, você pode automatizar seu fluxo de trabalho como nunca antes! 💻✨
 
----
+## 🔥 Recursos
+- 🎛️ Macros personalizáveis com atalhos
+- ⚡ Entrada de texto ultra rápida
+- 🎨 Interface no modo escuro
+- 🛡️ Bloqueio seguro de teclas
+- 💾 Gerenciamento de perfis
 
-## 🖱️ Cómo Usarlo
+## 📥 Download
+Basta baixar **mxcro.exe** e começar a usá-lo imediatamente—nenhuma configuração adicional é necessária!
 
-1. **Abre `macro.exe`**  
-2. **Selecciona un perfil** en el menú desplegable.  
-3. **Escribe un texto** en los campos correspondientes a `F1-F12`.  
-4. **Usa `{enter}`** en el campo de texto para simular la tecla Enter.  
-   - Ejemplo: `"Hola{enter}¿Cómo estás?"`  
-   - Esto enviará `"Hola"`, presionará Enter y luego enviará `"¿Cómo estás?"`.  
-5. **Haz clic en "Guardar Perfil"** para almacenar tus macros.  
-6. **Presiona F1-F12** para enviar el texto asignado instantáneamente.  
+## 🛡️ Garantia Livre de Vírus
+Mxcro está completamente livre de vírus. Você pode verificar sua segurança escaneando-o no [VirusTotal](https://www.virustotal.com/) antes de executá-lo. ✅
 
----
-
-## 🛑 Salir del Programa
-
-Para cerrar la herramienta, simplemente haz clic en el botón "Salir".
-
----
-
-## 📝 Notas
-
-- Puedes renombrar los perfiles para una mejor organización.
-- La herramienta funciona en segundo plano y se puede usar en cualquier aplicación.
-- No necesita instalación ni software adicional.
-
----
-
-### 🇵🇹 Português
-
-## 📜 Descrição
-
-Mxcro é uma ferramenta de macro simples e poderosa que permite atribuir textos às teclas de função (F1-F12) para digitação automática. Funciona instantaneamente e suporta a variável `{enter}` para simular a tecla Enter.
-
----
-
-## 📥 Instalação
-
-1. **Baixe** a versão mais recente de `macro.exe` em [Releases](https://github.com/your-repo/releases).
-2. **Extraia** o arquivo `.zip` em qualquer lugar do seu computador.
-3. **Execute** `macro.exe` (Não precisa de instalação).
-
----
-
-## 🖱️ Como Usar
-
-1. **Abra `macro.exe`**  
-2. **Selecione um perfil** no menu suspenso.  
-3. **Digite um texto** nos campos correspondentes a `F1-F12`.  
-4. **Use `{enter}`** no campo de texto para simular a tecla Enter.  
-   - Exemplo: `"Olá{enter}Como vai você?"`  
-   - Isso enviará `"Olá"`, pressionará Enter e depois enviará `"Como vai você?"`.  
-5. **Clique em "Salvar Perfil"** para armazenar seus macros.  
-6. **Pressione F1-F12** para enviar o texto atribuído instantaneamente.  
-
----
-
-## 🛑 Sair do Programa
-
-Para fechar a ferramenta, basta clicar no botão "Sair".
-
----
-
-## 📝 Notas
-
-- Você pode renomear perfis para melhor organização.
-- A ferramenta funciona em segundo plano e pode ser usada em qualquer aplicativo.
-- Não requer instalação ou software adicional.
