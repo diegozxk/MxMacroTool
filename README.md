@@ -9,6 +9,12 @@ Mxcro is a powerful and easy-to-use macro automation tool for Windows. With a sl
 - 🛡️ Secure key blocking
 - 💾 Profile management
 
+## 🎮 How to Use
+1. Open **mxcro.exe**
+2. Configure your macros
+3. Use `{enter}` to execute commands
+4. Enjoy automated efficiency! 🚀
+
 ## 📥 Download
 Simply download **mxcro.exe** and start using it right away—no additional setup required!
 
@@ -28,6 +34,12 @@ Mxcro es una poderosa y fácil herramienta de automatización de macros para Win
 - 🛡️ Bloqueo seguro de teclas
 - 💾 Gestión de perfiles
 
+## 🎮 Cómo Usarlo
+1. Abre **mxcro.exe**
+2. Configura tus macros
+3. Usa `{enter}` para ejecutar comandos
+4. ¡Disfruta de la automatización! 🚀
+
 ## 📥 Descarga
 Solo descarga **mxcro.exe** y comienza a usarlo de inmediato—¡sin necesidad de configuración adicional!
 
@@ -46,6 +58,12 @@ Mxcro é uma ferramenta poderosa e fácil de usar para automação de macros no 
 - 🎨 Interface no modo escuro
 - 🛡️ Bloqueio seguro de teclas
 - 💾 Gerenciamento de perfis
+
+## 🎮 Como Usar
+1. Abra **mxcro.exe**
+2. Configure seus macros
+3. Use `{enter}` para executar comandos
+4. Aproveite a automação! 🚀
 
 ## 📥 Download
 Basta baixar **mxcro.exe** e começar a usá-lo imediatamente—nenhuma configuração adicional é necessária!
